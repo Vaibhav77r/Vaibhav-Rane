@@ -3,7 +3,7 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pranav%20Rane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vaibhav%20Rane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=36BCF7&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav77r&label=PROFILE+VIEWS&color=36BCF7&style=flat-square"/>
 </p>
 
 ---
@@ -23,11 +23,11 @@
 <img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ```java
-public class Vaibhav Rane {
+public class VaibhavRane {
 
     String role = "Java Full Stack Developer";
     String focus = "Building scalable applications";
-    
+
     String[] skills = {
         "Java",
         "Spring Boot",
@@ -108,6 +108,7 @@ Python → NumPy → Pandas → Matplotlib → Scikit-learn
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 📋 Task Management Portal
@@ -127,17 +128,17 @@ Java • Spring Boot • React • MySQL
 
 <td width="50%">
 
-
 ### 🌱 More Projects Coming
 
 I'm continuously building and experimenting with:
 
-* AI applications
-* Full-stack systems
-* Cloud deployments
-* Developer tools
+* 🤖 AI applications
+* 💻 Full-stack systems
+* ☁️ Cloud deployments
+* 🛠️ Developer tools
 
 </td>
+
 </tr>
 </table>
 
@@ -146,20 +147,12 @@ I'm continuously building and experimenting with:
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav77r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav77r&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav77r&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -172,8 +165,8 @@ React                    █████████████████░�
 SQL & Databases          ███████████████████░   90%
 Python & ML              ██████████████░░░░░░   70%
 GenAI & LLM              ████████████░░░░░░░░   60%
-Docker & DevOps           ██████████░░░░░░░░░░   70%
-Cloud / AWS               █████████░░░░░░░░░░░   65%
+Docker & DevOps          ██████████████░░░░░░   70%
+Cloud / AWS              █████████████░░░░░░░   65%
 ```
 
 ---
@@ -196,7 +189,7 @@ I believe the best way to learn technology is to <strong>build real things, solv
 
 <p align="center">
 
-<a href="www.linkedin.com/in/vaibhavrane7">
+<a href="https://www.linkedin.com/in/vaibhavrane7">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -204,7 +197,7 @@ I believe the best way to learn technology is to <strong>build real things, solv
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="ranevaibhav797@gmail.com">
+<a href="mailto:ranevaibhav797@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -216,6 +209,8 @@ I believe the best way to learn technology is to <strong>build real things, solv
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
