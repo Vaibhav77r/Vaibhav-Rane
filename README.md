@@ -12,6 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;AI%2FML+Enthusiast;GenAI+%7C+LLM+Explorer;Building+Real-World+Applications+%F0%9F%9A%80"/>
 </p>
 
+<!-- PROFILE VIEWS -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaibhav77r&label=PROFILE+VIEWS&color=36BCF7&style=flat-square"/>
 </p>
@@ -36,6 +38,8 @@
 
 🔨 Building projects using **Java, Spring Boot, React & MySQL**
 
+🧠 Practicing **Data Structures & Algorithms**
+
 🌱 Always learning, building and improving
 
 <br clear="right"/>
@@ -46,35 +50,101 @@
 
 ## 💻 Programming
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
+<p align="center">
+  <b>Java • Python • JavaScript</b>
+</p>
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+### 📚 Data Structures
+
+<p align="center">
+  Arrays • Strings • Linked Lists • Stacks • Queues • Hashing
+  • Trees • Heaps • Graphs
+</p>
+
+### ⚙️ Algorithms
+
+<p align="center">
+  Searching • Sorting • Recursion • Backtracking
+  • Greedy  • Graph Algorithms
+</p>
+
+<!-- LEETCODE -->
+
+<p align="center">
+  <a href="https://leetcode.com/u/Vrane/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Vrane/">
+    <b>🔗 Visit My LeetCode Profile</b>
+  </a>
+</p>
+
+---
+
 ## 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs" />
 </p>
+
+<p align="center">
+  <b>HTML • CSS • JavaScript • React • Next.js</b>
+</p>
+
+---
 
 ## ⚙️ Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
+<p align="center">
+  <b>Spring Boot • REST APIs • Node.js</b>
+</p>
+
+---
+
 ## 🗄️ Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
+<p align="center">
+  <b>MySQL • MongoDB</b>
+</p>
+
+---
+
 ## ☁️ Cloud & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 </p>
 
-## 🤖 AI / ML
+<p align="center">
+  <b>Git • GitHub • Docker • AWS</b>
+</p>
+
+---
+
+# 🤖 AI / ML
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn" />
@@ -84,21 +154,20 @@
   <b>Python • NumPy • Pandas • Matplotlib • Scikit-learn</b>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI%20Applications-00A67E?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Applications-00A67E?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <b>Machine Learning • GenAI • LLMs • AI Applications</b>
 </p>
+
+---
 
 # 🚀 Featured Projects
 
@@ -115,9 +184,9 @@ A full-stack task management application designed to manage tasks efficiently.
 
 - 🔐 Authentication
 - 👥 Role-based access
-- 📊 Dashboard & reports
+- 📊 Dashboard & Reports
 - 💬 Comments
-- ⏰ Task deadlines
+- ⏰ Task Deadlines
 - 📈 Analytics
 
 ### Tech Stack
@@ -128,16 +197,19 @@ A full-stack task management application designed to manage tasks efficiently.
 
 <td width="50%">
 
+</td>
+
+<td width="50%">
 
 ## 🌱 More Projects Coming
 
 Currently experimenting with:
 
-- 🤖 AI applications
-- 💻 Full-stack applications
-- ☁️ Cloud deployments
+- 🤖 AI Applications
+- 💻 Full-Stack Applications
+- ☁️ Cloud Deployments
 - 🧠 Machine Learning
-- 🛠️ Developer tools
+- 🛠️ Developer Tools
 
 </td>
 
@@ -154,6 +226,8 @@ Currently experimenting with:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav77r&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav77r&theme=tokyo-night&hide_border=true"/>
 </p>
@@ -161,8 +235,6 @@ Currently experimenting with:
 ---
 
 # 🎯 2026 Learning Roadmap
-
-<p align="center">
 
 | Technology | Progress |
 |------------|----------|
@@ -175,26 +247,43 @@ Currently experimenting with:
 | 🐳 Docker & DevOps | ██████████████░░░░░░ 70% |
 | ☁️ AWS / Cloud | █████████████░░░░░░░ 65% |
 
-</p>
-
 ---
+
+# 🧠 Currently Learning
 
 # 🧠 Currently Learning
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DSA-3776AB?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
 
----
+<p align="center">
+  <b>DSA • Problem Solving • Java • Spring Boot • React • Python • AI/ML • GenAI • AWS • Docker</b>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/Practice%20DSA%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 # 💡 Developer Philosophy
 
@@ -250,4 +339,3 @@ I believe the best way to learn technology is to
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
-
