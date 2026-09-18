@@ -1,12 +1,12 @@
-# Vaibhav-Rane
+# Vaibhav77r
 
-<!-- HEADER -->
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vaibhav%20Rane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- ======================= TYPING ANIMATION ======================= -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;AI%2FML+Enthusiast;GenAI+%7C+LLM+Explorer;Building+Real-World+Applications+%F0%9F%9A%80"/>
@@ -20,87 +20,73 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<p align="center">
+  <img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</p>
 
-```java
-public class VaibhavRane {
+🎓 **Computer Engineering Student**
 
-    String role = "Java Full Stack Developer";
-    String focus = "Building scalable applications";
+💻 **Java Full Stack Developer**
 
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "MySQL",
-        "Python",
-        "AI/ML",
-        "GenAI",
-        "LLMs"
-    };
+🚀 Passionate about building **scalable and real-world applications**
 
-    String[] interests = {
-        "Software Development",
-        "Artificial Intelligence",
-        "Cloud Computing",
-        "DevOps"
-    };
-
-    boolean learning = true;
-    boolean building = true;
-}
-```
-
-🎓 Computer Engineering Student
-💻 Passionate about **Java Full Stack Development**
 🤖 Exploring **AI/ML, GenAI & LLM applications**
+
 ☁️ Learning **Cloud, Docker & DevOps**
-🔨 Building practical, real-world projects
-🚀 Focused on becoming a **Full Stack + AI Developer**
+
+🔨 Building projects using **Java, Spring Boot, React & MySQL**
+
+🌱 Always learning, building and improving
+
+<br clear="right"/>
 
 ---
 
 # ⚡ Tech Arsenal
 
-### 💻 Programming
+## 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
-### 🗄️ Database
+## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ☁️ Cloud & Tools
+## ☁️ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 </p>
 
-### 🤖 AI / ML
+## 🤖 AI / ML
 
-```text
-Python → NumPy → Pandas → Matplotlib → Scikit-learn
-                         ↓
-                    Machine Learning
-                         ↓
-                  GenAI → LLMs → AI Apps
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  Python → NumPy → Pandas → Matplotlib → Scikit-learn
+</p>
+
+<p align="center">
+  Machine Learning → GenAI → LLMs → AI Applications
+</p>
 
 ---
 
@@ -111,31 +97,72 @@ Python → NumPy → Pandas → Matplotlib → Scikit-learn
 
 <td width="50%">
 
-### 📋 Task Management Portal
+## 📋 Task Management Portal
 
-Full-stack task management application with:
+A full-stack task management application designed to manage tasks efficiently.
 
-* 🔐 Authentication
-* 👥 Role-based access
-* 📊 Dashboard & reports
-* 💬 Comments
-* ⏰ Task deadlines
+### Features
 
-**Stack:**
-Java • Spring Boot • React • MySQL
+- 🔐 Authentication
+- 👥 Role-based access
+- 📊 Dashboard & reports
+- 💬 Comments
+- ⏰ Task deadlines
+- 📈 Analytics
+
+### Tech Stack
+
+**Java • Spring Boot • React • MySQL**
 
 </td>
 
 <td width="50%">
 
-### 🌱 More Projects Coming
+## 🤖 SIF Precursor Intelligence
 
-I'm continuously building and experimenting with:
+AI-powered safety intelligence system designed to analyze safety reports and identify recurring patterns.
 
-* 🤖 AI applications
-* 💻 Full-stack systems
-* ☁️ Cloud deployments
-* 🛠️ Developer tools
+### Features
+
+- 🔎 Safety report analysis
+- ⚠️ SIF precursor detection
+- 📈 Pattern analytics
+- 🛡️ Hazard analysis
+- 🔗 Barrier-failure analysis
+
+### Focus
+
+**AI/ML • Pattern Analytics • Data Intelligence**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🔍 Search & Recommendation Engine
+
+Domain-aware search and recommendation system for college library assets.
+
+### Tech Stack
+
+**React • FastAPI • Python**
+
+</td>
+
+<td width="50%">
+
+## 🌱 More Projects Coming
+
+Currently experimenting with:
+
+- 🤖 AI applications
+- 💻 Full-stack applications
+- ☁️ Cloud deployments
+- 🧠 Machine Learning
+- 🛠️ Developer tools
 
 </td>
 
@@ -148,6 +175,7 @@ I'm continuously building and experimenting with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav77r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav77r&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -157,17 +185,39 @@ I'm continuously building and experimenting with:
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 2026 Learning Roadmap
 
-```text
-Java & Spring Boot       ████████████████████  100%
-React                    █████████████████░░░   85%
-SQL & Databases          ███████████████████░   90%
-Python & ML              ██████████████░░░░░░   70%
-GenAI & LLM              ████████████░░░░░░░░   60%
-Docker & DevOps          ██████████████░░░░░░   70%
-Cloud / AWS              █████████████░░░░░░░   65%
-```
+<p align="center">
+
+| Technology | Progress |
+|------------|----------|
+| ☕ Java | ████████████████████ 100% |
+| 🌱 Spring Boot | ███████████████████░ 95% |
+| ⚛️ React | █████████████████░░░ 85% |
+| 🗄️ SQL & Databases | ███████████████████░ 90% |
+| 🐍 Python & ML | ██████████████░░░░░░ 70% |
+| 🤖 GenAI & LLM | ████████████░░░░░░░░ 60% |
+| 🐳 Docker & DevOps | ██████████████░░░░░░ 70% |
+| ☁️ AWS / Cloud | █████████████░░░░░░░ 65% |
+
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -175,12 +225,21 @@ Cloud / AWS              █████████████░░░░░�
 
 <p align="center">
 
-> <b>"Code. Learn. Build. Repeat."</b>
+### "Code. Learn. Build. Repeat." 🚀
 
-<br/>
+<br>
 
-I believe the best way to learn technology is to <strong>build real things, solve real problems, and keep experimenting.</strong>
+I believe the best way to learn technology is to  
+<strong>build real things, solve real problems, and keep experimenting.</strong>
 
+</p>
+
+---
+
+# 📊 GitHub Profile
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav77r&theme=tokyonight" />
 </p>
 
 ---
@@ -190,15 +249,15 @@ I believe the best way to learn technology is to <strong>build real things, solv
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vaibhavrane7">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Vaibhav77r">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:ranevaibhav797@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -211,6 +270,9 @@ I believe the best way to learn technology is to <strong>build real things, solv
 
 </p>
 
+<!-- ======================= FOOTER ======================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
+
