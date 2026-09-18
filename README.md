@@ -77,18 +77,28 @@
 ## 🤖 AI / ML
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn" />
 </p>
 
 <p align="center">
-  Python → NumPy → Pandas → Matplotlib → Scikit-learn
+  <b>Python • NumPy • Pandas • Matplotlib • Scikit-learn</b>
 </p>
 
 <p align="center">
-  Machine Learning → GenAI → LLMs → AI Applications
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI%20Applications-00A67E?style=for-the-badge&logo=robotframework&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <b>Machine Learning • GenAI • LLMs • AI Applications</b>
+</p>
 
 # 🚀 Featured Projects
 
@@ -118,41 +128,6 @@ A full-stack task management application designed to manage tasks efficiently.
 
 <td width="50%">
 
-## 🤖 SIF Precursor Intelligence
-
-AI-powered safety intelligence system designed to analyze safety reports and identify recurring patterns.
-
-### Features
-
-- 🔎 Safety report analysis
-- ⚠️ SIF precursor detection
-- 📈 Pattern analytics
-- 🛡️ Hazard analysis
-- 🔗 Barrier-failure analysis
-
-### Focus
-
-**AI/ML • Pattern Analytics • Data Intelligence**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🔍 Search & Recommendation Engine
-
-Domain-aware search and recommendation system for college library assets.
-
-### Tech Stack
-
-**React • FastAPI • Python**
-
-</td>
-
-<td width="50%">
 
 ## 🌱 More Projects Coming
 
